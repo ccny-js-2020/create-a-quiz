@@ -1,0 +1,9 @@
+ul {
+  display: flex;
+  margin-left: -45px;
+}
+
+li {
+  display: block;
+  padding: 5px;
+}
